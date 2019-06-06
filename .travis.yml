@@ -1,0 +1,8 @@
+language: bash
+
+notifications:
+  email: false
+
+install: sudo apt-get install jing
+
+script: jing ./schema/tei_all.rng ./homework/*.xml
