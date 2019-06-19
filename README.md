@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/readchina/my-first-tei.svg?branch=master)](https://travis-ci.com/readchina/my-first-tei)
+
 # my-first-tei
 Your homework was to create a valid tei-xml file based on the info you collected about your classmates in class.
 
