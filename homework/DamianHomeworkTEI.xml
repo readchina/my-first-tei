@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>READCHINA Class of 2018</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information Not Yet Available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source is need-based only</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>     
+       <body>
+          <listPerson>
+          <person 
+             sex="female"
+             age="immortal">
+                <persName>Lena
+                   <roleName>PI</roleName>
+                   <roleName>Grand Admiral</roleName>
+                   <origPlace>Coruscant</origPlace>
+             </persName>
+          </person>
+          <person 
+              sex="female"
+              age="immortal">
+                <persName>Lara
+                   <roleName>PD</roleName>
+                   <roleName>Fleet Admiral</roleName>
+                   <origPlace>Alderaan</origPlace>
+                </persName>
+           </person>     
+             <person 
+                sex="male"
+                age="immortal">
+                <persName>Duncan
+                   <roleName>PD</roleName>
+                   <roleName>Fleet Admiral</roleName>
+                   <origPlace>Kashyyyk</origPlace>
+                </persName>
+             </person>
+             <person 
+                sex="female"
+                age="immortal">
+                <persName>Eve
+                   <roleName>PHD</roleName>
+                   <roleName>Captain</roleName>
+                   <origPlace>Naboo</origPlace>
+                </persName>
+             </person>
+             <person 
+                sex="male"
+                age="immortal">
+                <persName>Damian
+                   <roleName>PHD</roleName>
+                   <roleName>Lieutenant</roleName>
+                   <origPlace>Jaaku</origPlace>
+                </persName>
+             </person>
+            </listPerson>
+       </body>
+  </text>
+</TEI>
