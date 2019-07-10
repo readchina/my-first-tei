@@ -18,8 +18,23 @@
     </teiHeader>
     <text>
         <body>
-            <!--  DP: This is just empty template for testing  travis' validation -->
-            <p>Some text here.</p>
+            <listPerson>
+                <person role="PI" sex="f">
+                    <persName>Lena</persName>
+                </person>
+                <person role="student" sex="f">
+                    <persName>Lara</persName>
+                </person>
+                <person role="instructor" sex="m">
+                    <persName>Duncan</persName>
+                </person>
+                <person role="student" sex="f">
+                    <persName>Eve</persName>
+                </person>
+                <person role="student" sex="m">
+                    <persName>Damian</persName>
+                </person>
+            </listPerson>
         </body>
     </text>
 </TEI>
